@@ -405,10 +405,6 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ---
 
-
-
-**Thirksha Baskar**
-- GitHub: [Thirksha Baskar](https://github.com/THIRKSHABASKAR)
 - LinkedIn: [Thirksha Baskar](www.linkedin.com/in/thirksha-baskar-464694254)
 
 ---
